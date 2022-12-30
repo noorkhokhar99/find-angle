@@ -5,11 +5,11 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/bear-detection.git
+git clone https://github.com/noorkhokhar99/find-angle.git
 ```
 - Goto the cloned folder.
 ```
-cd bear-detection
+cd find-angle
 
 ```
 - Upgrade pip with mentioned command below.
@@ -22,11 +22,11 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-python objectDetection.py
+python angleFinder.py
 
  
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/bear-detection/blob/main/Screen%20Shot%202022-12-29%20at%202.25.58%20pm.png">
+<img src="https://github.com/noorkhokhar99/find-angle/blob/main/Screen%20Shot%202022-12-30%20at%2011.27.00%20am.png">
 </p>
